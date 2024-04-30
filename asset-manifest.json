@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rafaelExcelNeww/static/css/main.a82e4226.css",
+    "main.js": "/rafaelExcelNeww/static/js/main.5b93fb8b.js",
+    "index.html": "/rafaelExcelNeww/index.html",
+    "main.a82e4226.css.map": "/rafaelExcelNeww/static/css/main.a82e4226.css.map",
+    "main.5b93fb8b.js.map": "/rafaelExcelNeww/static/js/main.5b93fb8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a82e4226.css",
+    "static/js/main.5b93fb8b.js"
+  ]
+}
