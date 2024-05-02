@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/rafaelExcelNeww/static/css/main.f800cf40.css",
-    "main.js": "/rafaelExcelNeww/static/js/main.07cbc7d7.js",
+    "main.js": "/rafaelExcelNeww/static/js/main.a9a42043.js",
     "index.html": "/rafaelExcelNeww/index.html",
     "main.f800cf40.css.map": "/rafaelExcelNeww/static/css/main.f800cf40.css.map",
-    "main.07cbc7d7.js.map": "/rafaelExcelNeww/static/js/main.07cbc7d7.js.map"
+    "main.a9a42043.js.map": "/rafaelExcelNeww/static/js/main.a9a42043.js.map"
   },
   "entrypoints": [
     "static/css/main.f800cf40.css",
-    "static/js/main.07cbc7d7.js"
+    "static/js/main.a9a42043.js"
   ]
 }
