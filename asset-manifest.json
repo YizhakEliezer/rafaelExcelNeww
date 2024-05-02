@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/rafaelExcelNeww/static/css/main.86534209.css",
-    "main.js": "/rafaelExcelNeww/static/js/main.3f898c6d.js",
+    "main.css": "/rafaelExcelNeww/static/css/main.e37b003d.css",
+    "main.js": "/rafaelExcelNeww/static/js/main.f7b92ed3.js",
+    "static/media/logoArrow.png": "/rafaelExcelNeww/static/media/logoArrow.c814de993054b98070bf.png",
     "index.html": "/rafaelExcelNeww/index.html",
-    "main.86534209.css.map": "/rafaelExcelNeww/static/css/main.86534209.css.map",
-    "main.3f898c6d.js.map": "/rafaelExcelNeww/static/js/main.3f898c6d.js.map"
+    "static/media/arrow.svg": "/rafaelExcelNeww/static/media/arrow.1e849faa8b4424a4aee765d3db4a436a.svg",
+    "main.e37b003d.css.map": "/rafaelExcelNeww/static/css/main.e37b003d.css.map",
+    "main.f7b92ed3.js.map": "/rafaelExcelNeww/static/js/main.f7b92ed3.js.map"
   },
   "entrypoints": [
-    "static/css/main.86534209.css",
-    "static/js/main.3f898c6d.js"
+    "static/css/main.e37b003d.css",
+    "static/js/main.f7b92ed3.js"
   ]
 }
